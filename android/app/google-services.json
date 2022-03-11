@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "104001916251",
+    "project_id": "weather-app-6bb99",
+    "storage_bucket": "weather-app-6bb99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104001916251:android:8086d05340b7ffc63ade7e",
+        "android_client_info": {
+          "package_name": "net.terupro.weatherApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104001916251-1rpiphn3905tnpg22u72q4tf9dsuuggd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc6gt0uEtdO08CNGZl-jW4C5nZktSEQOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104001916251-1rpiphn3905tnpg22u72q4tf9dsuuggd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104001916251-2dpl3spe0g0hghikqoo3ihss5n65e9ek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.terupro.weatherApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

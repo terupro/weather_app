@@ -78,7 +78,7 @@ class _WeatherPageState extends State<WeatherPage> {
                         getData();
                       });
                     },
-                    child: const Text("天気を更新する"),
+                    child: const Text("Reflesh Weather"),
                   ),
                 ),
               ],

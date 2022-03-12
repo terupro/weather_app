@@ -20,9 +20,9 @@ Widget additionalInformation(
               mainAxisAlignment: MainAxisAlignment.start,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: const [
-                Text("風速", style: titleTextStyle),
+                Text("Wind", style: titleTextStyle),
                 SizedBox(height: 18.0),
-                Text("気圧", style: titleTextStyle),
+                Text("Humidity", style: titleTextStyle),
               ],
             ),
             Column(
@@ -38,9 +38,9 @@ Widget additionalInformation(
               mainAxisAlignment: MainAxisAlignment.start,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: const [
-                Text("湿度", style: titleTextStyle),
+                Text("Pressure", style: titleTextStyle),
                 SizedBox(height: 18.0),
-                Text("体感気温", style: titleTextStyle),
+                Text("Feels like", style: titleTextStyle),
               ],
             ),
             Column(
